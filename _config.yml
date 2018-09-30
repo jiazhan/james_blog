@@ -11,7 +11,7 @@ markdown: kramdown
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : Kevin's Blog triggered by github hook on 2018/9/30
+title : new Kevin's Blog triggered by github hook on 2018/9/30
 tagline: A blog isn't just about words or Docker
 author :
   name : James Turnbull
